@@ -1,0 +1,25 @@
+.card-position{
+    margin-right: 33%;
+    margin-left: 33%;
+    margin-top: 10%;
+    
+    
+}
+.card-body{
+    background: deepskyblue;
+}
+.input-fields{
+    border-radius: 3.3rem;
+    height: 50px;
+    margin-bottom: 20px;
+    border: 2px solid cadetblue;
+    text-align: center;
+    width: 75%;
+}
+.card-body{
+    border-radius: 0.5rem;
+
+}
+.textStyle{
+    color: red;
+}
